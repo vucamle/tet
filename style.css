@@ -1,0 +1,159 @@
+.header{
+    padding-top: 3rem;
+    display: flex;
+    
+    margin-left: 3rem;
+    
+}
+.header>img{
+    height: 3rem;
+    
+}
+.header__one{
+    color: rgb(0, 128, 11);
+margin-right: 10rem;
+}
+.header__two{
+    margin-right: 10rem;
+    color: gray;
+}
+.header__three{
+    color: gray;
+}
+.all{
+    background-image:url(bgr.jpeg) ;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.container{
+    margin-left: 3rem;
+}
+p{
+    color: grey;
+}
+span{
+    font-size: 30px;
+    color: white;
+}
+h{
+    color: rgb(0, 128, 11);
+}
+h5{
+    color: grey;
+}
+i{
+    color:rgb(0, 128, 11);
+    margin-left: 1rem;
+    font-size: 8px;
+} 
+.body__one{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 5rem;
+    width: 15rem;
+    background-color: rgba(0, 0, 0, 0.546);
+    color: grey;
+    border-radius: 16px;
+
+
+}
+input{
+    height: 1rem;
+    background-color: rgba(0, 0, 0, 0.546);
+border: 0ch;
+color: grey;
+outline: none;
+
+}
+.body__one>i{
+    font-size: 20px;
+    color: grey;
+}
+.body__two{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 5rem;
+    width: 15rem;
+    background-color: rgba(0, 0, 0, 0.546);
+    color: grey;
+    border-radius: 16px;
+    margin-left: 1rem;
+}
+.body__two>i{
+    font-size: 20px;
+    color: grey;
+}
+.body{
+    display: flex;
+}
+.giua{
+    margin-left: 3rem;
+}
+.cuoi{
+    margin-left: 3rem;
+}
+.giuahai{
+    display: flex;
+    align-items: center;
+    
+    height: 5rem;
+    width: 30rem;
+    background-color: rgba(0, 0, 0, 0.546);
+    color: grey;
+    border-radius: 16px;
+    margin-left: 1rem;
+    margin-top: 2rem;
+}
+.giuahai>i{
+    font-size: 20px;
+    color: grey;
+    margin-left: 15rem;
+
+}
+.hai{
+    margin-left: 2rem;
+}
+.giuaba{
+    display: flex;
+    align-items: center;
+    
+    height: 5rem;
+    width: 30rem;
+    background-color: rgba(0, 0, 0, 0.546);
+    color: grey;
+    border-radius: 16px;
+    margin-left: 1rem;
+    margin-top: 2rem;
+}
+.giuaba>i{
+    font-size: 20px;
+    color: grey;
+margin-left: 15rem;
+}
+.giuasau{
+    height: 3.5rem;
+    width: 9rem;
+    font-size: 19px;
+    font-weight: 700;
+    margin-right: 1rem;
+    color: green;
+    background-color: rgba(128, 128, 128, 0.434);
+    border: 0ch;
+    border-radius: 19px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.giuabay{
+    height: 3.5rem;
+    width: 9rem;
+    font-size: 19px;
+    font-weight: 700;
+    margin-right: 1rem;
+    color: grey;
+    background-color: green;
+    border: 0ch;
+    border-radius: 19px;
+    margin-top: 2rem;
+}
